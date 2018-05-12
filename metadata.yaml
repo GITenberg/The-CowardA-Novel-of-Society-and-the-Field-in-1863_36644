@@ -1,0 +1,26 @@
+_repo: The-CowardA-Novel-of-Society-and-the-Field-in-1863_36644
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morford, Henry
+    birthdate: 1823
+    deathdate: 1881
+    gutenberg_agent_id: '34007'
+    url: http://www.gutenberg.org/2009/agents/34007
+description: ''
+gutenberg_issued: '2011-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36644'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+title: 'The Coward: A Novel of Society and the Field in 1863'
+url: http://www.gutenberg.org/ebooks/36644
